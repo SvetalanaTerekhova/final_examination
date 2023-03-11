@@ -1,0 +1,232 @@
+@media (max-width: 375px) {
+    .container {
+        width: 335px;
+    }
+
+    .header {
+        background-image: url(./img/header/header-mobile-background.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 815px;
+    }
+
+    .header_information {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .header_novigation_menu {
+        display: none;
+    }
+
+    .sign {
+        gap: 18px;
+    }
+
+    .sign_up {
+        display: none;
+    }
+
+    .general_menu {
+        display: block;
+        background: none;
+        border: none;
+    }
+
+    .header_content {
+        width: 335px;
+    }
+
+    .header_desc {
+        padding-top: 29px;
+    }
+
+    .header_analytical_data {
+        display: none;
+    }
+
+    .header_mobaile_img {
+        display: block;
+    }
+
+    .header_desc_title {
+        font-size: 31px;
+    }
+
+    .header_desc_btn {
+        padding: 16px 128px;
+    }
+
+    .main_features {
+        margin-top: 50px;
+        text-align: left;
+    }
+
+    .features_title {
+        margin-bottom: 20px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .features_text {
+        margin-bottom: 40px;
+        width: 335px;
+        font-size: 14px;
+        line-height: 140%;
+    }
+
+    .features_content {
+        margin-bottom: 70px;
+        flex-wrap: wrap;
+        gap: 35px;
+    }
+
+    .features_card {
+        margin-left: 40px;
+        flex-direction: row;
+        gap: 27px;
+    }
+
+    .features_card_title {
+        padding: 0 0 9px 0;
+    }
+
+    .features_card_text {
+        padding: 0;
+        width: 246px;
+        font-size: 14px;
+    }
+
+    .analytical_card {
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .analytical_card_desc {
+        width: 335px;
+    }
+
+    .analytical_card_title {
+        margin-bottom: 20px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .analytical_card_text {
+        font-size: 14px;
+        line-height: 140%;
+    }
+
+    .analytical_card_lift {
+        margin-left: 0;
+        flex-wrap: wrap-reverse;
+    }
+
+    .analytical_card_right {
+        margin-right: 0px;
+    }
+
+    .price {
+        padding-top: 160px;
+        background-image: url(./img/price/price-mobile-background.svg);
+        height: 874px;
+    }
+
+    .price_content {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: left;
+        text-align: left;
+    }
+
+    .price_content_title {
+        justify-content: left;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .price_content_text {
+        width: 335px;
+        margin-bottom: 59px;
+        font-size: 14px;
+        line-height: 140%;
+    }
+
+    .price_cards {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .price_card {
+        width: 280px;
+        height: 358px;
+        padding-top: 35px;
+        background: #FFFFFF;
+    }
+
+    .price_card_title {
+        margin-bottom: 7px;
+        font-size: 25px;
+        line-height: 29px;
+        color: #172755;
+    }
+
+    .price_card_text {
+        width: 220px;
+        padding-bottom: 30px;
+        font-size: 13px;
+        line-height: 140%;
+    }
+
+    .price_card_content_cost {
+        color: #172755;
+    }
+
+    .price_card_content_cost span {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .price_card_content_text {
+        font-size: 13px;
+    }
+
+    .price_card_btn {
+        margin: 0 37px;
+        background: #EF2A82;
+        border: none;
+    }
+
+    .information_content {
+        padding-top: 34px;
+        padding-bottom: 35px;
+    }
+
+    .information_companies {
+        display: none;
+    }
+
+    .information_authorization_fon {
+        margin-left: 0px;
+    }
+
+    .information_authorization {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .information_authorization_form_btn {
+        width: 335px;
+        padding: 12px 70px;
+    }
+
+    .footer {
+        background: #1F2F5C;
+        padding: 36px 0;
+    }
+
+    .footer_menu {
+        display: none;
+    }
+}
